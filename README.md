@@ -1,1 +1,1 @@
-# CMPE-273-Assignment-2-Trip-Planner
+# CMPE-273-Uber-Trip-Planner
